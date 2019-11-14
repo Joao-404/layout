@@ -24,6 +24,7 @@ aside {
     box-sizing: border-box;
     width: 30%;
     float:right;
+    
 }
 
 nav {
@@ -43,3 +44,59 @@ footer { clear: both;}
     }
     
 }
+
+
+img {
+    
+    
+    width: 70%;
+    height: 70%;
+    margin-left: 20%;
+}
+
+
+a {
+  
+  padding: 5px;
+  background-color: orange;
+  border-width: 1px;
+  border-color: orange;
+  border-radius: 7px;
+  
+ }
+ 
+ 
+ 
+ h2 {
+    
+    margin-top: 0px;
+    font-size: 50px;
+    font-family: Arial Narrow;
+    
+ }
+ 
+ 
+ p {
+    
+    font-size: 20px;
+    
+    font-family: sans-serif;
+    
+ }
+ 
+ iframe {
+    
+   
+    
+    width: 80%;
+    height: 380px;
+    margin-top: 30px;
+ }
+ 
+ 
+ 
+ a {
+    
+    text-decoration: none;
+    
+ }
